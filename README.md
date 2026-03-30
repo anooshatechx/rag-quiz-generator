@@ -23,7 +23,7 @@ This project is the official implementation for the research paper:
 **"Enhancing Self-Regulated Learning: Evaluating a RAG and LLM-Driven Quiz Generator for Academic PDFs"** *Submitted to the **Journal of Social Sciences and Educational Practices (JSSEP)**.*
 
 ## 📂 Repository Structure
-* [rag-quiz-generator](main.py) - Core RAG pipeline and Pydantic logic.
+* [main.py](main.py) - Core RAG pipeline and Pydantic logic.
 * `requirements.txt` - Project dependencies.
 * `results_sample.csv` - Sample of generated validated output.
 * `README.md` - Project documentation.
