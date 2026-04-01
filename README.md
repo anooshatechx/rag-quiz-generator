@@ -24,7 +24,7 @@ This project is the official implementation for the research paper:
 
 ## 📂 Repository Structure
 * [main.py](main.py) - Core RAG pipeline and Pydantic logic.
-* `results_sample.csv` - Sample of generated validated output.
+* [results_sample](results.csv) - Sample of generated validated output.
 * `README.md` - Project documentation.
 
 ## ⚙️ Installation & Usage
